@@ -120,3 +120,6 @@ The correlation coefficient of , 0.2096, indicates a weak positive correlation b
 The weak positive correlation indicates that popularity is one factor influencing a movie's gross profit, but it's not the sole factor. Production costs, distribution deals, and other revenue streams all play a role in determining how much profit a movie generates.
 ![alt text](image-4.png)
 
+The production budget, worldwide gross, profit, and worldwide gross all show a strong link, as can be seen in the heatmap above. Based on this, we can infer that the larger the budget, the higher the revenue for the various films.
+![alt text](image-5.png)
+
