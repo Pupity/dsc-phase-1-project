@@ -1,7 +1,5 @@
 Game On: Leveraging Box Office Trends for Microsoft's Movie Studio
 
-![image.png](attachment:image.png)
-photo by Bruce.Nash on [thenumber](https://www.the-numbers.com/images/movies/If-(2024)-2-News.jpg)
 
 ## Overview
 My aim is to  dive into the current  microsoft box office landscape, uncovering trends that can empower Microsoft's  movie studio to make strategic decisions about its film . By analyzing popular genres,top grossing films, audience demographics, and distribution strategies that will provide actionable insights to guide the studio towards box office success.
