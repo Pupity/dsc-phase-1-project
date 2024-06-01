@@ -53,5 +53,64 @@ Three different files will serve as the data sources for this research.
 *Content*he set's data is arranged according to a number of criteria, such as budget, genre, release date, and domestic/international gross. These numbers immediately answer our inquiries concerning the highest-grossing movies.
 *Format*-The format of this data set is a CSV file
 
+## Data Understanding
 
+Three different files will serve as the data sources for this research.
+
+1.im.db
+
+*Source*-This data set comes from [IMDB](https://www.imdb.com/) a public and free movie database
+
+*Content*-This set of data contains pertinent statistics, like movie ratings and movie fundamentals, that we will use to analyze our issue.
+
+*Format*-The format for this data set is SQL
+
+2.tmdb.movies.csv 
+
+*Source*This data set comes from [TMDB](https://www.themoviedb.org/).It is a community-built library of films and television shows with an emphasis on global communities and a vast amount of data.
+
+*Content*We will use vote count, popularity, and genre IDs in this set of important variables for our study
+*Format*-This data is in csv file format
+
+
+3.tn.movies_budgets.csv
+
+*Source*This data set comes from [TheNumbers](https://www.the-numbers.com/) This is a website that offers past box office information for motion pictures.
+
+*Content*he set's data is arranged according to a number of criteria, such as budget, genre, release date, and domestic/international gross. These numbers immediately answer our inquiries concerning the highest-grossing movies.
+*Format*-The format of this data set is a CSV file
+
+## Data Understanding
+
+Three different files will serve as the data sources for this research.
+
+1.im.db
+
+*Source*-This data set comes from [IMDB](https://www.imdb.com/) a public and free movie database
+
+*Content*-This set of data contains pertinent statistics, like movie ratings and movie fundamentals, that we will use to analyze our issue.
+
+*Format*-The format for this data set is SQL
+
+2.tmdb.movies.csv 
+
+*Source*This data set comes from [TMDB](https://www.themoviedb.org/).It is a community-built library of films and television shows with an emphasis on global communities and a vast amount of data.
+
+*Content*We will use vote count, popularity, and genre IDs in this set of important variables for our study
+*Format*-This data is in csv file format
+
+
+3.tn.movies_budgets.csv
+
+*Source*This data set comes from [TheNumbers](https://www.the-numbers.com/) This is a website that offers past box office information for motion pictures.
+
+*Content*he set's data is arranged according to a number of criteria, such as budget, genre, release date, and domestic/international gross. These numbers immediately answer our inquiries concerning the highest-grossing movies.
+*Format*-The format of this data set is a CSV file
+
+The data suggests that movies combining genres like Comedy, Documentary, or Fantasy tend to have higher average ratings based on the barplot
+![alt text](image-1.png)
+
+Genres with the highest average gross profit will have the longest bars on the left side of the chart i.e Family,Fantasy,Musical	
+Adventure,Drama,Sport, Fantasy,Musical. This visualization allows us to quickly identify the genres with most profitable film industry based on the data.
+![alt text](image-2.png)
 
