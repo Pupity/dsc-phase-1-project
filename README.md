@@ -114,3 +114,9 @@ Genres with the highest average gross profit will have the longest bars on the l
 Adventure,Drama,Sport, Fantasy,Musical. This visualization allows us to quickly identify the genres with most profitable film industry based on the data.
 ![alt text](image-2.png)
 
+The correlation coefficient of , 0.2096, indicates a weak positive correlation between average rating and popularity which suggests that while good critical reception can contribute to a movie's success, it's not the sole determinant of popularity.
+![alt text](image-3.png)
+
+The weak positive correlation indicates that popularity is one factor influencing a movie's gross profit, but it's not the sole factor. Production costs, distribution deals, and other revenue streams all play a role in determining how much profit a movie generates.
+![alt text](image-4.png)
+
