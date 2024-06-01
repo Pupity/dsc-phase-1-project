@@ -123,3 +123,21 @@ The weak positive correlation indicates that popularity is one factor influencin
 The production budget, worldwide gross, profit, and worldwide gross all show a strong link, as can be seen in the heatmap above. Based on this, we can infer that the larger the budget, the higher the revenue for the various films.
 ![alt text](image-5.png)
 
+Conclusion
+
+The results of the analysis carried out above are listed below:
+
+The profitability of the movie will be greatly influenced by the production budget in addition to other elements like the cast, producers, marketing, and language of the movie. It should be noted that the success of the picture does not necessarily follow from the budget that is allotted.
+A movie's profitability is not guaranteed by its level of popularity. Several genres had high vote counts according to our data, but their profitability was marginally lower.
+
+Movies that fit into multiple categories are both profitable and well-liked.
+Short films, particularly documentaries and biographies, have a strong return on investment.
+
+Recommendation
+Considering that there is a positive correlation between the budget and the income, it would be wise to establish a healthy budget for the film production. However, it should be mentioned that the movie needs a strong marketing plan that takes into account the producers and actors involved.
+Focusing on short documentaries is a fantastic idea because they have a high return on investment. It's critical that they expand the range of genres and film styles they produce in order to appeal to a larger audience.
+A movie's success can be influenced by a number of outside variables, thus it's critical to comprehend the market and contemporary social and demographic issues like "Black lives matter," "Gender Inclusion," "race," etc. In order to appeal to the target market, it would be beneficial to support the agenders that the company finds relatable.
+Films typically last between ninety and one hundred and fifty minutes, therefore if a lengthier picture is likely to be produced, it's preferable to make a limited series.
+
+
+
